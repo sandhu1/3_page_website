@@ -1,1 +1,1 @@
-# 3_page_website
+This is a 3 page website having information regarding COVID-19 precautions,symptoms,latest news and vaccination.I have used Title, Heading, paragraph, image, link, background color (other than white) and text color (other than black).
